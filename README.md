@@ -113,7 +113,7 @@ The bot creates persistent conversation threads for each user, enabling context-
 
 ## Visual Flow Diagram
 
-![Workflow Diagram](.workflow_diagram.png)
+![Workflow Diagram](workflow_diagram.png)
 
 
 ---
